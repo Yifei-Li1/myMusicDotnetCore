@@ -1,0 +1,13 @@
+E:\myMusic\MyMusic.Services\bin\Debug\netcoreapp3.0\MyMusic.Services.deps.json
+E:\myMusic\MyMusic.Services\bin\Debug\netcoreapp3.0\MyMusic.Services.dll
+E:\myMusic\MyMusic.Services\bin\Debug\netcoreapp3.0\MyMusic.Services.pdb
+E:\myMusic\MyMusic.Services\bin\Debug\netcoreapp3.0\MyMusic.Core.dll
+E:\myMusic\MyMusic.Services\bin\Debug\netcoreapp3.0\MyMusic.Core.pdb
+E:\myMusic\MyMusic.Services\obj\Debug\netcoreapp3.0\MyMusic.Services.csproj.AssemblyReference.cache
+E:\myMusic\MyMusic.Services\obj\Debug\netcoreapp3.0\MyMusic.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\myMusic\MyMusic.Services\obj\Debug\netcoreapp3.0\MyMusic.Services.AssemblyInfoInputs.cache
+E:\myMusic\MyMusic.Services\obj\Debug\netcoreapp3.0\MyMusic.Services.AssemblyInfo.cs
+E:\myMusic\MyMusic.Services\obj\Debug\netcoreapp3.0\MyMusic.Services.csproj.CoreCompileInputs.cache
+E:\myMusic\MyMusic.Services\obj\Debug\netcoreapp3.0\MyMusic.Services.csproj.CopyComplete
+E:\myMusic\MyMusic.Services\obj\Debug\netcoreapp3.0\MyMusic.Services.dll
+E:\myMusic\MyMusic.Services\obj\Debug\netcoreapp3.0\MyMusic.Services.pdb

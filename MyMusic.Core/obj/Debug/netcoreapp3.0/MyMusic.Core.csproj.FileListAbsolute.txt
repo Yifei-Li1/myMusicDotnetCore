@@ -1,0 +1,10 @@
+E:\myMusic\MyMusic.Core\bin\Debug\netcoreapp3.0\MyMusic.Core.deps.json
+E:\myMusic\MyMusic.Core\bin\Debug\netcoreapp3.0\MyMusic.Core.dll
+E:\myMusic\MyMusic.Core\bin\Debug\netcoreapp3.0\MyMusic.Core.pdb
+E:\myMusic\MyMusic.Core\obj\Debug\netcoreapp3.0\MyMusic.Core.csproj.AssemblyReference.cache
+E:\myMusic\MyMusic.Core\obj\Debug\netcoreapp3.0\MyMusic.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\myMusic\MyMusic.Core\obj\Debug\netcoreapp3.0\MyMusic.Core.AssemblyInfoInputs.cache
+E:\myMusic\MyMusic.Core\obj\Debug\netcoreapp3.0\MyMusic.Core.AssemblyInfo.cs
+E:\myMusic\MyMusic.Core\obj\Debug\netcoreapp3.0\MyMusic.Core.csproj.CoreCompileInputs.cache
+E:\myMusic\MyMusic.Core\obj\Debug\netcoreapp3.0\MyMusic.Core.dll
+E:\myMusic\MyMusic.Core\obj\Debug\netcoreapp3.0\MyMusic.Core.pdb
